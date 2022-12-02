@@ -1,13 +1,23 @@
-# BudgetApplication
+# Budgeting Application
 
-This is an application I learned from the Javascript course I took from Jonas Schmedtmann. 
+## Description
+This was a web application that I coded along with Jonas Schmedtmann. It is a JavaScript budget tracking app that uses plain JavaScript (ES6), HTML, and CSS3.
 
-You use the application using the form in the grey bar. 
-The first selection box indicated by a minus sign or a plus sign, indicates whether an item is classified as an income (+) or an expense (-). 
-The next input box is where you can specify the income/expense.
-the last input box is where you type in the amount (No need to use a dollar sign. The application already displays it)
+## Objectives Learned
 
-The application then displays above the input form, the totals. Income (Total) in Green, and Expense in red
-The application also shows how much of a percentage is used from the total, on the expense.
+- Utilizing the use of a module pattern
+- Utlilizing private and public data, encapsulation and separation
+- Kowing how to set up event listeners for keypress events;
+- Kowing how to use event objects
+- How to read data from different HTML input types
+- Avoiding conflicts in our data structures
+- Converting lists to arrays
+- How to add all elements of an array using forEach method
+- Utilizing IDs in HTML to connect the UI with the data model
+- Removing an element from the DOM
+- Utilizing the substr method
 
-Enjoy! 
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
